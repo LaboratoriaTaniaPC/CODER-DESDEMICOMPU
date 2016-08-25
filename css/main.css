@@ -1,0 +1,118 @@
+/*
+	@uthor: Tania Patiño
+	date: 23-08-16
+	version: 2.0
+	excercise: landing page
+	usar referencias no es trampa
+	la rueda ya esta hecha
+	references:http://www.w3schools.com/bootstrap/
+*/
+
+.fondin{
+
+	background-color: white;
+	height: 100px;
+}
+
+.caja {
+
+   display: inline-block;
+
+}
+
+.espacios {
+
+	margin.right: 12px;
+	padding-right: 12px;
+
+}
+
+.fondo{
+
+	background-image: url("../img/header.jpg");
+	background-size: cover;
+	background-position: center top;
+	background-repeat: no-repeat;
+	padding: 1%;
+
+}
+
+.btn-logo {
+ 
+  width: 80px;
+  height: 80px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.42;
+  border-radius: 15px;
+}
+
+.glyphicon{
+
+	font-size: 50px;
+
+}
+
+.color-letra{
+
+	color: white;
+}
+
+.centra-boton{
+
+	margin-left: 485px;
+
+}
+
+.derecha{
+
+  	margin-left: 300px;	
+
+}
+
+.centra{
+
+	margin-left: 510px;
+
+}
+
+.izquierda{
+	
+	margin-left: 700px;
+}
+
+.rayitas{
+
+	border-color: pink;
+}
+
+.fondo-abajo{
+
+	background-color: black;
+}
+
+
+.fondo-sobre-mi{
+
+	background-color:#F05F40;
+}
+
+
+.fondo-servicios{
+
+	background-color: white;
+
+}
+
+.espacio {
+
+	padding:10%;
+}
+
+.entre-secciones{
+
+	padding-bottom: 12%;
+}
+
+
